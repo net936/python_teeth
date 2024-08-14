@@ -13,9 +13,7 @@
 演示地址：[https://teeth.gitapp.cn](https://teeth.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/python_teeth
 
 
 ## 主要功能
